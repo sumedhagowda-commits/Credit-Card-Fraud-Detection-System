@@ -39,9 +39,11 @@ Built a fraud detection system using:
 
 ---
 
-## 📸 Screenshots
-
-(Add images here)
+📊 Dataset
+Source: Kaggle (ULB Credit Card Fraud Dataset)
+Total Transactions: 284,807
+Fraud Cases: 492
+Highly imbalanced dataset
 
 ---
 
